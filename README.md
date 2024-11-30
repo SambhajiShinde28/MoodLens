@@ -18,11 +18,15 @@ MoodLens is a **sentiment analysis web application** that utilizes **machine lea
 ## **Demo**
 
 ### **Screenshots**
-
 <p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=12xf7DbVPnd9BsE3DuCKfg6toYjRBy0SC" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1E8SOGRLeVZqdMI7XxJxHQHiAn6LEmRRU" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1jZeTp9fzyDZr_Ek65nxX340aX0jiNkQz" alt="img" width="166" style="margin: 5px;">
+</p>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Trn0CKPIsh95ta8bvCaqq1avBuNw0azg" alt="img" width="166" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1i3hC6yeCoPnwsxqvqHuPp06YaMX_yXjf" alt="img" width="310" style="margin: 5px;">
   <img src="https://drive.google.com/uc?export=view&id=1XbbSLxsJ6hA4G-pKQWnlyOyeVUvCbDFV" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1I71HaILhacJkHe5h94Gb8FiBRYJ4W4Ys" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1YnCL5PD9EAG-BKJKJf9IFwPtd6fq-N4_" alt="img" width="310" style="margin: 5px;">
 </p>
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1_DDcF4zgAyOfwoWalKAlK3ygm8W8J3xU" alt="img" width="310" style="margin: 5px;">
@@ -30,13 +34,8 @@ MoodLens is a **sentiment analysis web application** that utilizes **machine lea
   <img src="https://drive.google.com/uc?export=view&id=1gYk7no_ab9LWbCbrGTqbZk27ecSnPbbj" alt="img" width="310" style="margin: 5px;">
 </p>
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Trn0CKPIsh95ta8bvCaqq1avBuNw0azg" alt="img" width="166" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1i3hC6yeCoPnwsxqvqHuPp06YaMX_yXjf" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1E8SOGRLeVZqdMI7XxJxHQHiAn6LEmRRU" alt="img" width="310" style="margin: 5px;">
-</p>
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1jZeTp9fzyDZr_Ek65nxX340aX0jiNkQz" alt="img" width="166" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=12xf7DbVPnd9BsE3DuCKfg6toYjRBy0SC" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1I71HaILhacJkHe5h94Gb8FiBRYJ4W4Ys" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1YnCL5PD9EAG-BKJKJf9IFwPtd6fq-N4_" alt="img" width="310" style="margin: 5px;">
 </p>
 
 ### **Video**
@@ -44,7 +43,8 @@ MoodLens is a **sentiment analysis web application** that utilizes **machine lea
 
 Click the image below to watch the project video
 
-[![Watch the video](https://drive.google.com/uc?export=view&id=1XbbSLxsJ6hA4G-pKQWnlyOyeVUvCbDFV)](https://drive.google.com/file/d/1DGy-vg98Jt1OojSrKRdBtE9IU6VZws-D/view?usp=drive_link)
+[![Watch the video](https://drive.google.com/uc?export=view&id=12xf7DbVPnd9BsE3DuCKfg6toYjRBy0SC)](https://drive.google.com/file/d/1DGy-vg98Jt1OojSrKRdBtE9IU6VZws-D/view?usp=drive_link)
+
 
 
 
